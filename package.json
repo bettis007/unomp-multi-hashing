@@ -1,16 +1,17 @@
 {
   "name": "unomp-multi-hashing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "multihashing",
   "author": {
-    "name": "zone117x"
+    "name": "bettis007"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/UNOMP/node-multi-hashing.git"
   },
   "dependencies": {
-    "bindings": "*"
+    "bindings": "*",
+    "node-addon-api": "^8.2.2"
   },
   "keywords": [
     "scrypt",
