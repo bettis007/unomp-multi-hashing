@@ -1,7 +1,7 @@
 {
   "name": "unomp-multi-hashing",
   "version": "1.0.2",
-  "main": "multihashing",
+  "main": "index.js",
   "author": {
     "name": "bettis007"
   },
